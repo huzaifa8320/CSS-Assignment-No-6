@@ -1,0 +1,309 @@
+.main1 {
+    width: 99%;
+    height: 568px;
+    background-color: white;
+    /* border: 1px solid black; */
+    display: flex;
+}
+
+.main2 {
+    width: 29%;
+    height: 23%;
+    position: fixed;
+    z-index: 1;
+}
+
+.div1 {
+    width: 30%;
+    height: 90%;
+    background-color: white;
+    border: 1px solid rgb(175, 175, 175);
+    margin-left: 10px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.para1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.input1 {
+    width: 85%;
+    margin-left: 20px;
+    height: 30%;
+    border-top: 1px solid #dfdfdf;
+    border-right: 1px solid #dfdfdf;
+    border-left: 1px solid #dfdfdf;
+    border-bottom-color: #bab4b4;
+    border-radius: 7px;
+}
+
+.div2 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div3 {
+    border: 1px solid black;
+    width: 45px;
+    height: 45px;
+    margin-top: 9px;
+    margin-left: 9px;
+    border-radius: 50%;
+    position: absolute;
+
+}
+
+.img1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.div14 {
+    position: relative;
+    top: 10px;
+    left: 22%;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.div4 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div5 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    position: relative;
+    background-color: white;
+}
+
+.div6 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div7 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div8 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div9 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div10 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    position: relative;
+    background-color: white;
+}
+
+.div11 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div12 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div13 {
+    height: 20%;
+    width: 90%;
+    margin-left: 17px;
+    margin-top: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.div15 {
+    position: relative;
+    top: 10px;
+    left: 60px;
+    width: 34%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    position: relative;
+    top: 15px;
+    left: 70px;
+}
+
+.main3 {
+    height: 69%;
+    position: relative;
+    top: 29%;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.main4 {
+    /* border: 1px solid black; */
+    width: 60%;
+    height: 90%;
+    background-color: chocolate;
+    position: relative;
+    top: 50px;
+}
+
+.div2:hover {
+    background-color: #e2dbdb;
+}
+
+.div4:hover {
+    background-color: #e2dbdb;
+}
+
+.div5:hover {
+    background-color: #e2dbdb;
+}
+
+.div6:hover {
+    background-color: #e2dbdb;
+}
+
+.div7:hover {
+    background-color: #e2dbdb;
+}
+
+.div8:hover {
+    background-color: #e2dbdb;
+}
+
+.div9:hover {
+    background-color: #e2dbdb;
+}
+
+.div10:hover {
+    background-color: #e2dbdb;
+}
+
+.div11:hover {
+    background-color: #e2dbdb;
+}
+
+.div12:hover {
+    background-color: #e2dbdb;
+}
+
+.div13:hover {
+    background-color: #e2dbdb;
+}
+
+.para2 {
+    /* margin-top: 0px; */
+    /* display: inline-block; */
+    /* border: 1px solid black; */
+    /* height: 10px; */
+    /* margin-top: 0px; */
+    position: absolute;
+    top: 0px;
+    left: 3%;
+    font-size: 25px;
+}
+
+.fa-whatsapp {
+    /* display: inline-block; */
+    /* border: 1px solid black; */
+    /* height: 10px; */
+    /* margin-top: 0px; */
+    /* position: absolute; */
+    position: relative;
+    top: 3%;
+    /* left: 1%; */
+    font-size: 30px;
+}
+
+.fa-comment-dots {
+    /* border: 1px solid black; */
+    position: absolute;
+    font-size: 25px;
+    top: 13%;
+}
+
+.fa-phone {
+    position: absolute;
+    font-size: 25px;
+    top: 21%;
+}
+
+.fa-circle-dot {
+    position: absolute;
+    top: 29%;
+    font-size: 25px;
+}
+
+.fa-star {
+    position: absolute;
+    font-size: 25px;
+    top: 60%;
+}
+.fa-box-archive{
+    position: absolute;
+    font-size: 25px;
+    top: 70%;
+}
+.fa-gear{
+    position: absolute;
+    top: 80%;
+    font-size: 25px;
+}
+.fa-circle-user{position: absolute;
+font-size: 25px;
+top: 90%;}
+.fa-comment-dots,.fa-phone,.fa-circle-dot ,.fa-star,.fa-box-archive,.fa-gear,.fa-circle-user {
+    color: rgb(129, 128, 128);
+}
+.img2{
+    width: 100%;
+    height: 100%;
+}
